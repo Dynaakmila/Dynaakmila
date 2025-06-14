@@ -16,5 +16,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynaakmila&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
-- [LinkedIn](#)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/dyna-akmila/)
+- [Email](dynaakmila17@gmail.com)
