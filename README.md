@@ -8,6 +8,7 @@
 - HTML, CSS, JavaScript
 - Python, SQL
 - Google Cloud Platform
+![Google Cloud Badge](https://www.cloudskillsboost.google/public_profiles/fe51a980-ee93-4f4e-b904-6efed0d1c283/badges/14015894)
 
 ## 📈 My GitHub Stats
 
