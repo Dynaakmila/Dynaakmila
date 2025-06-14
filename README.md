@@ -8,7 +8,6 @@
 - HTML, CSS, JavaScript
 - Python, SQL
 - Google Cloud Platform
-![Google Cloud Badge](https://cdn.qwiklabs.com/Q3q8iU%2B3%2F5vrRb%2FHPgI86XIsGLdErHa3uLKJ%2Brxfs7Y%3D)
 
 ## 📈 My GitHub Stats
 
@@ -19,3 +18,4 @@
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/dyna-akmila/)
 - [Email](dynaakmila17@gmail.com)
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/fe51a980-ee93-4f4e-b904-6efed0d1c283)
