@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Dyna Akmila!
 
-<!--
-**Dynaakmila/Dynaakmila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Information Systems student at Universitas Ma'soem  
+☁️ Google Cloud Arcade Facilitator  
+💻 Passionate about Cloud Computing, Web Development & Data Analysis
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML, CSS, JavaScript
+- Python, SQL
+- Google Cloud Platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 My GitHub Stats
+
+![Dyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dynaakmila&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dynaakmila&layout=compact&theme=radical)
+
+## 📫 Let's Connect
+- [LinkedIn](#)
+- [Email](mailto:youremail@example.com)
