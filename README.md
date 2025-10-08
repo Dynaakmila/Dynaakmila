@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dyna Akmila!
 
-✨ Information Systems student at Universitas Ma'soem  
+✨ Information Systems Graduate at Universitas Ma'soem  
 ☁️ Google Cloud Arcade Facilitator  
 💻 Passionate about Cloud Computing, Web Development & Data Analysis
 
